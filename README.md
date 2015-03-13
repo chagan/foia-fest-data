@@ -2,6 +2,8 @@
 
 ## How to FOIA data
 ### Federal FOIA example
+[Click here to download word document](https://github.com/chagan/foia-fest-data/blob/master/example-federal-foia.docx)
+
 P.J. Huffstutter
 Thomson Reuters
 311 S. Wacker Dr.
@@ -37,6 +39,8 @@ Sincerely, 
 P.J. Huffstutter
 
 ### Illinois/Chicago example
+[Click here to download word document](https://github.com/chagan/foia-fest-data/blob/master/example-federal-foia.docx)
+
 Patrick J. Corcoran
 Office of the Chicago City Clerk City Hall 121 North LaSalle Street, Room 107 Chicago, IL 60602
 ClerkFOIA@cityofchicago.org
