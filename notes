@@ -1,0 +1,44 @@
+# Getting to know your data
+
+## Who is your data?
+* I'm going to mix up my parts of speech, but stick with me
+
+## You may think your data is this
+* This looks like a bunch of numbers
+
+## But really, it's this
+* This is your source
+
+## What does that mean?
+* We're reporters. You ask them questions
+* You know their bias
+	* Who collected this? For what?
+	* How sure are they?
+
+## Or more likely, this is your data
+* Data is dirty
+
+## Quick bath
+* Take a min and max
+* Sort and scan
+* Take a sum and average (does it work?)
+* Are there missing values?
+
+# Change things around
+* Text to columns
+* Convert to numbers, dates, strings as needed
+
+## Pivot
+* Pivot tables are great for analysis, but just as good for cleaning
+* If you know sql great, but pivot next best thing
+* Get sums by group, see if names are mispelled, if there are more records than you think
+
+## Data smells
+* Check previous year's data before working with a new stuff
+* Excel row limits, 65,536 before 2007, 1,048,576 after
+* Null Island
+
+## Make your life easier
+* Don't change the original
+* Don't make changes in a cell, create a new column
+* Use consistent names that say what it is and what changed
